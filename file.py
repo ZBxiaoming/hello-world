@@ -13,4 +13,4 @@ while counts > 0:
                   else:
                         print("嘿，小了！小了！！")
       counts = counts - 1
-print("游戏结束，拜拜^_^，我是小泽")
+print("游戏结束，拜拜^_^")
